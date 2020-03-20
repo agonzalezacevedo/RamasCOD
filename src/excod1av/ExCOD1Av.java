@@ -15,7 +15,7 @@ public class ExCOD1Av {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Modificación B en la rama principal");
+        System.out.println("Modificación E cambio a la rama principal");
     }
     
 }
