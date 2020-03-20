@@ -11,6 +11,6 @@ package excod1av;
  */
 public class RamaExp {
     public void rama(){
-        System.out.println("Modificación C en la rama nueva exp");
+        System.out.println("Modificación D en la rama exp");
     }
 }
